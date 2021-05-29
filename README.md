@@ -1,5 +1,6 @@
 # Eae gente, tudo bem? ✌️
-<p Me chamo Levi, cursei o ensino médio integrado a mecatrônica na Etec Professor Basilides de Godoy. 
+
+<p> Me chamo Levi, cursei o ensino médio integrado a mecatrônica na Etec Professor Basilides de Godoy. 
 Atualmente estou cursando análise e desenvolvimento de sistemas na USJT, também estou estudando 
 desenvolvimento por conta própria focando na stack JS. Ainda assim ainda acabo experimentando outras linguagens, 
 seja por interesse ou pela obrigatoriedade da faculdade.
