@@ -5,7 +5,7 @@ Atualmente estou cursando análise e desenvolvimento de sistemas na USJT, també
 desenvolvimento por conta própria focando na stack JS. Ainda assim ainda acabo experimentando outras linguagens, 
 seja por interesse ou pela obrigatoriedade da faculdade.
 </p>
-<div>
+<div >
   
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Melo&&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=Levi-Melo&theme=dark&hide_border=true&show_icons=true&count_private=true"/>
@@ -30,8 +30,8 @@ seja por interesse ou pela obrigatoriedade da faculdade.
   ##
  
 
-  <a href = "mailto: levicontat@outlook.com"><img src="https://img.shields.io/badge/outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=current" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-melo-dos-santos-5277441a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a  href = "mailto: levicontat@outlook.com"><img src="https://img.shields.io/badge/outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=current" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/levi-melo-dos-santos-5277441a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
    
 </div>
