@@ -7,8 +7,8 @@ seja por interesse ou pela obrigatoriedade da faculdade.
 </p>
 <div >
   
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Melo&&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Levi-Melo&theme=dark&hide_border=true&show_icons=true&count_private=true"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Melo&&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=Levi-Melo&theme=dark&hide_border=true&show_icons=true&count_private=true"/>
 </div>
 <br/>
 <div>
